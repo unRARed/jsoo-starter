@@ -1,14 +1,13 @@
 {
-  "name": "test-jsoo",
+  "name": "jsoo-starter",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "Gruntfile.js",
   "author": "Ryan Richardson",
   "license": "MIT",
   "private": true,
   "devDependencies": {
     "grunt": "^1.4.1",
     "grunt-contrib-watch": "^1.1.0",
-    "grunt-of-ocamlbuild": "^1.0.0",
     "grunt-run": "^0.8.1"
   }
 }
